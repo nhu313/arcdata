@@ -4,6 +4,6 @@ class Roster::Chapter < ActiveRecord::Base
   has_many :people
 
   def time_zone
-    @_tz ||= ActiveSupport::TimeZone[self.time_zone_raw]
+    @_tz ||= ActiveSupport::TimeZone['Eastern Time (US & Canada)']
   end
 end
