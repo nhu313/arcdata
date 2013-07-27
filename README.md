@@ -6,3 +6,6 @@ To run the application:
 - rake db:migrate
 - rake db:seed
 - rails s
+
+username: john
+password: smith
