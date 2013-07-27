@@ -7,5 +7,6 @@ To run the application:
 - rake db:seed
 - rails s
 
-username: john
-password: smith
+Username & password
+-username: john
+-password: smith
