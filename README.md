@@ -8,5 +8,5 @@ To run the application:
 - rails s
 
 Username & password
--username: john
--password: smith
+- username: john
+- password: smith
